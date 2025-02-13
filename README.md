@@ -1,4 +1,3 @@
-# Dentasmart Bot
+# this is a proj update repository
 
-This repository contains the Dentasmart Bot project.
 
