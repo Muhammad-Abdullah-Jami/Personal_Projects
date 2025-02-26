@@ -6,4 +6,10 @@ I applied basic image processing techniques frist week
   4. Denoising with the color preservation
   5. Edge Enhancement (color-safe)
   6. Saturation and Brightness Boost
+  7. Super-Resolution (DL-based)
+
+The results from the DL based model were good.
+Applying other DL based models for week 2
+  1. 
+
 
